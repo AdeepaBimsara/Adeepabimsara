@@ -7,7 +7,7 @@
     Developer with Java full-stack
 </p>
 <p align='center'>
-    🌱 I’m currently learning Node.js
+    🌱 I’m currently learning Next.js
 </p>
 
 <!--social -->
